@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+.build/
+.swiftpm/
+Package.resolved
+xcuserdata/
+*.xcuserdatad/
+
+# 사전 빌드 프레임워크는 릴리스 자산으로 배포한다(Package.swift 가 URL 로 참조).
+Vultus.xcframework/
